@@ -297,7 +297,7 @@ header nav {
   text-indent: -9999em;
   position: absolute;
   z-index: 99;
-  top: 50%;
+  top: 50%;li
   margin-top: -200px; }
 
 .prev {
@@ -492,7 +492,6 @@ dl.main-address a {
     z-index: 1; }
   .lightbox span {
     display: inline-block;
-    position: absolute;
     left: 0px;
     top: 0;
     width: 100%;
